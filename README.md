@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leshm</h1>
-<h3 align="center">A novice and lazy Python developer</h3>
+<h3 align="center">A fledgling and lazy python developer is still working hard to learn! !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leshm0321&label=Profile%20views&color=0e75b6&style=flat" alt="leshm0321" /> </p>
 

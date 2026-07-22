@@ -19,10 +19,4 @@
 
 <img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,fastapi,supabase,docker,cloudflare" alt="TypeScript, Python, React, Next.js, FastAPI, Supabase, Docker, and Cloudflare" />
 
-<p>React Native · Expo · Playwright · GitHub Actions</p>
-
-<h2>Contact</h2>
-
-<p><a href="mailto:me@leshm.com">me@leshm.com</a> · <a href="https://030321.xyz/">030321.xyz</a></p>
-
 </div>

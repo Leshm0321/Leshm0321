@@ -5,6 +5,7 @@
 **Independent developer building AI-powered products, mobile apps, automation, and developer tools.**
 
 [![Email](https://img.shields.io/badge/Email-me%40leshm.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:me@leshm.com)
+[![Blog](https://img.shields.io/badge/Blog-030321.xyz-FF5722?style=flat-square&logo=hexo&logoColor=white)](https://030321.xyz/)
 [![MindHack](https://img.shields.io/badge/MindHack-Website-00BFA5?style=flat-square&logo=googleplay&logoColor=white)](https://mindhack.leshm.com/)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mindhack.game)
 
@@ -22,6 +23,6 @@
 
 <h2>Contact</h2>
 
-<p><a href="mailto:me@leshm.com">me@leshm.com</a></p>
+<p><a href="mailto:me@leshm.com">me@leshm.com</a> · <a href="https://030321.xyz/">030321.xyz</a></p>
 
 </div>
